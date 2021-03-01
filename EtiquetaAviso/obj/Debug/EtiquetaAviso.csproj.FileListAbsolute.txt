@@ -1,0 +1,6 @@
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\EtiquetaAviso\bin\Debug\EtiquetaAviso.dll
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\EtiquetaAviso\bin\Debug\EtiquetaAviso.pdb
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\EtiquetaAviso\obj\Debug\EtiquetaAviso.csprojAssemblyReference.cache
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\EtiquetaAviso\obj\Debug\EtiquetaAviso.csproj.CoreCompileInputs.cache
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\EtiquetaAviso\obj\Debug\EtiquetaAviso.dll
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\EtiquetaAviso\obj\Debug\EtiquetaAviso.pdb
