@@ -1,0 +1,13 @@
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\bin\Debug\PruebaEtiquetaAviso.exe.config
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\bin\Debug\PruebaEtiquetaAviso.exe
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\bin\Debug\PruebaEtiquetaAviso.pdb
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\bin\Debug\EtiquetaAviso.dll
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\bin\Debug\EtiquetaAviso.pdb
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\obj\Debug\PruebaEtiquetaAviso.csprojAssemblyReference.cache
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\obj\Debug\PruebaEtiquetaAviso.Form1.resources
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\obj\Debug\PruebaEtiquetaAviso.Properties.Resources.resources
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\obj\Debug\PruebaEtiquetaAviso.csproj.GenerateResource.cache
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\obj\Debug\PruebaEtiquetaAviso.csproj.CoreCompileInputs.cache
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\obj\Debug\PruebaEtiquetaAviso.csproj.CopyComplete
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\obj\Debug\PruebaEtiquetaAviso.exe
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\EtiquetaAviso\PruebaEtiquetaAviso\obj\Debug\PruebaEtiquetaAviso.pdb
